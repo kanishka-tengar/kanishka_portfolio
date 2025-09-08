@@ -33,7 +33,7 @@ export default function Header() {
   const menuItems = [
     { label: "Home", id: "#Home" },
     { label: "About", id: "#About" },
-    { label: "Experience", id: "#Experience" },
+   
     { label: "Projects", id: "#Projects" },
     { label: "Skills", id: "#Skills" },
     { label: "Achievements", id: "#Achievements" },

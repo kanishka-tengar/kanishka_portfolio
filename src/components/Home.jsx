@@ -22,7 +22,7 @@ export default function Home() {
       >
         {/* Typewriter effect */}
         <h1 className="text-4xl md:text-5xl font-bold leading-tight text-white drop-shadow-lg">
-          <span className="typewriter">I am Piyush Sanwale</span>
+          <span className="typewriter">I am Kanishka Tengar </span>
         </h1>
 
         {/* Subheading */}
@@ -55,7 +55,7 @@ export default function Home() {
           className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start"
         >
           <a
-            href="/resume.pdf"
+            href="/kanishka_resume_portfolio.pdf"
             download
             className="px-6 py-3 rounded-lg bg-yellow-400 text-gray-900 font-semibold flex items-center gap-2 shadow-lg hover:bg-yellow-300 transition"
           >
@@ -71,7 +71,7 @@ export default function Home() {
           className="flex gap-6 justify-center md:justify-start text-2xl mt-4"
         >
           <a
-            href="https://github.com/PiyushMits123"
+            href="https://github.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-yellow-300 transition transform hover:scale-125"
@@ -79,7 +79,7 @@ export default function Home() {
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/piyush-sanwale-66a7ab235/"
+            href="https://www.linkedin.com/in/kanishka-tengar-a443a7261/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-yellow-300 transition transform hover:scale-125"
@@ -87,7 +87,7 @@ export default function Home() {
             <FaLinkedin />
           </a>
           <a
-            href="https://www.instagram.com/sanwale__sarkar/"
+            href="https://www.instagram.com/kanishka_tengar/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-yellow-300 transition transform hover:scale-125"
@@ -105,8 +105,8 @@ export default function Home() {
         className="relative z-10 md:w-1/2 flex justify-center mb-10 md:mb-0"
       >
         <img
-          src="/piyush.jpg"
-          alt="Piyush Sanwale"
+          src="/kanishkapic.png"
+          alt="Kanishka Tengar"
           className="w-64 h-64 md:w-80 md:h-80 rounded-full shadow-[0_0_30px_rgba(255,255,255,0.4)] border-4 border-yellow-400 object-cover"
         />
       </motion.div>

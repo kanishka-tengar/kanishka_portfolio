@@ -10,7 +10,7 @@ import Skills from "./components/Skills";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 import AdminQueries from "./components/AdminQueries";
-import Experience from "./components/Experience";
+
 
 export default function App() {
   return (
@@ -32,9 +32,7 @@ export default function App() {
                   <About />
                 </section>
 
-                <section id="Experience">
-                  <Experience />
-                </section>
+               
 
                 <section id="Projects">
                   <Projects />

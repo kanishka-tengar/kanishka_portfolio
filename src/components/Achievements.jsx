@@ -5,16 +5,16 @@ import { FaCrown, FaUsers } from "react-icons/fa";
 const achievements = [
   {
     icon: <FaCrown size={36} />,
-    title: "Founded GFG Student Chapter",
+    title: "Member at GFG Student Chapter ",
     description:
-      "Established the official GeeksforGeeks Student Chapter at my college, building a vibrant community of passionate programmers and tech enthusiasts.",
+      "Active Member of GeeksforGeeks Student Chapter, contributing to events and initiatives fostering a strong programming community.",
     color: "from-indigo-500 via-purple-500 to-pink-500",
   },
   {
     icon: <FaUsers size={36} />,
-    title: "Vice President - GFG Chapter",
+    title: "Member at FUN- TECH CLUB",
     description:
-      "Led the chapter as Vice President, organizing coding competitions, hackathons, and workshops that enhanced the technical culture of the campus.",
+      "Active Member of Fun Tech Club, engaging in tech-driven activities, collaborative projects, and interactive sessions to explore innovative ideas.",
     color: "from-yellow-500 via-orange-500 to-red-500",
   },
 ];

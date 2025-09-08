@@ -37,7 +37,7 @@ export default function About() {
   </h3>
   <p className="text-xl leading-relaxed text-gray-700 dark:text-gray-300">
     I am{" "}
-    <span className="font-bold text-yellow-500">Piyush Sanwale</span>, a{" "}
+    <span className="font-bold text-yellow-500">Kanishka Tengar </span>, a{" "}
     <span className="text-indigo-500 font-semibold">
       Full Stack Developer
     </span>{" "}
@@ -50,8 +50,8 @@ export default function About() {
     <span className="text-indigo-400 font-bold">scalable web apps</span> and
     solving challenging{" "}
     <span className="text-pink-400 font-bold">coding problems</span>.  
-    As Vice President of the{" "}
-    <span className="font-bold">GeeksforGeeks Student Chapter</span>,
+    As active member of the{" "}
+    <span className="font-bold">GeeksforGeeks Student Chapter and Funtech Club</span>,
     I’ve gained experience in{" "}
     <span className="text-yellow-400 font-bold">leadership & collaboration</span>.
   </p>
@@ -69,9 +69,9 @@ export default function About() {
   <div>
     <h4 className="text-2xl font-bold mb-2">Education</h4>
     <p className="text-lg leading-relaxed opacity-90">
-      B.Tech in Computer Science Engineering  
+      B.Tech in Information Technology   
       Madhav Institute of Technology & Science, Gwalior –{" "}
-      <span className="font-semibold">Batch 2025</span>
+      <span className="font-semibold">Batch 2027</span>
     </p>
   </div>
 </motion.div>
@@ -101,10 +101,10 @@ export default function About() {
     <FaUsers size={34} />
   </div>
   <div>
-    <h4 className="text-2xl font-bold mb-2">Leadership</h4>
+    <h4 className="text-2xl font-bold mb-2">Volunteering</h4>
     <p className="text-lg leading-relaxed opacity-90">
-      Founded GeeksforGeeks Student Chapter and served as{" "}
-      <span className="font-bold">Vice President</span>.
+      Member of  GeeksforGeeks Student Chapter and served as{" "}
+      <span className="font-bold">active member in Management Domain</span>.
     </p>
   </div>
 </motion.div>

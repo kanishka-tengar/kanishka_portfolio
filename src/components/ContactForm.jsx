@@ -38,7 +38,7 @@ export default function Contact() {
                 href="mailto:as07amritsingh@gmail.com"
                 className="hover:text-blue-500 transition-colors duration-300"
               >
-                as07amritsingh@gmail.com
+                kanishkatengar239@gmail.com
               </a>
             </div>
             <div className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
@@ -47,7 +47,7 @@ export default function Contact() {
                 href="tel:+916261395550"
                 className="hover:text-blue-500 transition-colors duration-300"
               >
-                6261395550
+                7024183138
               </a>
             </div>
           </div>

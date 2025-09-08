@@ -48,7 +48,7 @@ export default function Header() {
           className="text-2xl md:text-3xl font-extrabold text-white cursor-pointer hover:text-yellow-400 transition-colors duration-300"
           onClick={() => scrollToSection("#Home")}
         >
-          Piyush<span className="text-gray-100 dark:text-gray-300">Portfolio</span>
+          Kanishka<span className="text-gray-100 dark:text-gray-300">Portfolio</span>
         </h1>
 
         {/* Desktop Menu */}

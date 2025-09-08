@@ -10,7 +10,7 @@ export default function Footer() {
 
         {/* Left: Copyright */}
         <p className="text-sm md:text-base text-center md:text-left font-light">
-          © {year} Piyush Sanwale. All Rights Reserved.
+          © {year} Kanishka Tengar . All Rights Reserved.
         </p>
 
         {/* Right: Social Icons */}
